@@ -1,5 +1,5 @@
 
-## **Proyek: Sistem Manajemen Nilai Berbasis Outcome Based Education (OBE)**
+## **Sistem Manajemen Nilai Berbasis Outcome Based Education (OBE) menggunakan Moodle LMS**
 
 ### **Goals**
 
