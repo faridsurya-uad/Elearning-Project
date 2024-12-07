@@ -32,7 +32,14 @@
      3. Pengujian integrasi API dengan modul Moodle.  
    - **Output**: Backend service dengan dokumentasi API.  
 
-#### **2. Integrasi LMS dan SIA**  
+#### **2. Pengembangan Sistem Cerdas untuk Konfigurasi Otomatis LMS berdasdarkan RPS (Rencana Pembelajaran Semester)**
+   - **Tujuan**: Menembangkan sistem POC (Prove of Concept) memanfaatkan AI dan atau generative AI untuk mengkonversi dokumen RPS menjadi konfigurasi LSM berbasis Moodle.
+   - **Aktivitas**:
+     1. Melakukan riset penggunaan AI yang dapat mengambil informasi dari dokumen RPS untuk digunakan sebagai sumber data pengaturan LSM.
+     2. Melakukan riset penggunaan Generative AI untuk memberikan rekomendasi pengembangan konten pembelajaran di LMS.
+     3. Membangun sistem POC.
+
+#### **3. Integrasi LMS dan SIA**  
    - **Tujuan**: Membuat arsitektur sistem yang memungkinkan sinkronisasi data nilai dan capaian pembelajaran antar sistem.  
    - **Aktivitas**:
      1. Analisis data model di LMS dan SIA.
@@ -40,7 +47,7 @@
      3. Pengembangan modul sinkronisasi (transfer nilai, data mahasiswa, capaian pembelajaran).  
    - **Output**: Modul integrasi dengan dokumentasi teknis.  
 
-#### **3. Desain dan Pengembangan UI/UX OBE Gradebook**  
+#### **4. Desain dan Pengembangan UI/UX OBE Gradebook**  
    - **Tujuan**: Membuat antarmuka pengguna yang mendukung konsep OBE.  
    - **Aktivitas**:
      1. Riset kebutuhan pengguna melalui wawancara dan survei.
