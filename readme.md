@@ -48,15 +48,6 @@
      3. Pengembangan desain final dan pengujian usability.  
    - **Output**: Desain UI/UX siap implementasi dan laporan hasil pengujian usability.  
 
-### **Milestones**
-
-1. **Bulan 1-2**: Penyelesaian analisis kebutuhan dan desain sistem (Backend, Integrasi, UI/UX).  
-2. **Bulan 3-4**: Pengembangan backend service dan modul integrasi LMS-SIA.  
-3. **Bulan 5-6**: Penyelesaian desain UI/UX dan pengujian usability.  
-4. **Bulan 7**: Finalisasi dan integrasi semua komponen ke LMS.  
-5. **Bulan 8**: Deployment dan pelatihan pengguna.  
-
-
 ### **Tim yang Dibutuhkan**
 
 1. **Product Manager**: Koordinator proyek dan pengelolaan roadmap.  
