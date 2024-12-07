@@ -65,3 +65,26 @@
 4. **Figma/Adobe XD**: Untuk desain UI/UX.  
 5. **Postman**: Untuk pengujian API.  
 
+## **📄 Dokumentasi**  
+Semua dokumentasi terkait perencanaan, desain, dan pengembangan perangkat lunak ini tersedia di halaman [Wiki](../../wiki). Dokumentasi ini mencakup:  
+- **Kebutuhan Fungsional**  
+- **Desain Sistem**  
+- **Rencana Implementasi**  
+- **Pengujian dan Validasi**  
+
+Dokumentasi akan diperbarui secara berkala seiring dengan perkembangan proyek. Pastikan untuk memeriksa halaman Wiki untuk mendapatkan informasi terbaru.  
+
+## **🤝 Kolaborasi**  
+Proyek ini adalah proyek terbuka, dan kami mengundang Anda untuk bergabung dalam pengembangannya!  
+Berikut beberapa cara Anda dapat berkontribusi:  
+1. Membuka _Issues_ untuk melaporkan bug atau memberikan saran fitur baru.  
+2. Membuat _Pull Request_ untuk menyumbangkan kode, memperbaiki bug, atau menambahkan fitur.  
+3. Berpartisipasi dalam diskusi pengembangan untuk berbagi ide dan masukan.  
+
+### **Cara Berkontribusi**  
+1. _Fork_ repository ini.  
+2. Lakukan perubahan di branch Anda.  
+3. Ajukan _Pull Request_ ke branch utama proyek ini.  
+
+Kami sangat menghargai setiap kontribusi yang Anda berikan untuk membuat BridgingApp lebih baik lagi. Jangan ragu untuk menghubungi kami melalui tab _Discussions_ atau _Issues_ jika Anda memiliki pertanyaan atau ide.  
+
